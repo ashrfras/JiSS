@@ -604,28 +604,6 @@
 .فجوة-تمانون {gap: 80px;}
 .فجوة-تسعون {gap: 90px;}
 
-.تصفير, .تصفير *, .تصفير *::before, .تصفير *::after { box-sizing: border-box; }
-.تصفير, .تصفير * { margin: 0; padding: 0 }
-.تصفير dialog {margin: auto; padding: 1rem}
-.بنط-ئربتيك, .بنط-ئربتيك * {font-family:arabetic;letter-spacing: 1px;font-size: 100%;}
-.تصفير table { border-collapse: collapse; border-spacing: 0 }
-.تصفير hr {height: 1px; margin: 1rem 0; color: inherit; background-color: currentColor; border: 0; opacity: .25;}
-.تصفير a { text-decoration: none; color: inherit;}
-.تصفير input, .تصفير select {border-width: 1px;padding-top: 0.5rem;padding-right: 0.75rem;padding-bottom: 0.5rem;padding-left: 0.75rem;font-size: 1rem;line-height: 1.5rem;--tw-shadow: 0 0 #0000;}
-.تصفير input, .تصفير select {color: black;border: 0;border-bottom: 1px solid; border-color: rgb(75 85 99); background-color: rgb(229 231 235);}
-.داكن .تصفير input, .داكن .تصفير select {color: white; border-color: rgb(156 163 175); background-color: rgb(64 64 64);}
-.تصفير h1{ font-size: 2em; margin: .67em 0 }
-.تصفير h2 { font-size: 1.5em; margin: .75em 0 }
-.تصفير h3 { font-size: 1.17em; margin: .83em 0 }
-.تصفير h4, .تصفير p, .تصفير blockquote, .تصفير ul, .تصفير fieldset, .تصفير form, .تصفير ol, .تصفير dl, .تصفير dir, .تصفير menu { margin: 1.12em 0 }
-.تصفير h5 { font-size: .83em; margin: 1.5em 0 }
-.تصفير h6 { font-size: .75em; margin: 1.67em 0 } 
-.تصفير h1, h2, h3, h4, h5, h6, b, strong { font-weight: bolder }
-.تصفير li { display: list-item }
-.تصفير input[type=tel] {direction: inherit;}
-.تصفير ol {margin-inline-start: 40px}
-.تصفير ul {margin-inline-start: 40px}
-
 .خلف-زمرد-50 {background-color: rgb(236 253 245);}
 .خلف-زمرد-100 {background-color: rgb(209 250 229);}
 .خلف-زمرد-200 {background-color: rgb(167 243 208);}
