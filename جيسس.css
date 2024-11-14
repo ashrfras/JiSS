@@ -1673,3 +1673,5 @@
 .ئصفف-وسط {align-items: center}
 .ئصفف-توازي {align-items: baseline}
 .ئصفف-تمدد {align-items: stretch}
+
+.بلاتحديد {user-select: none;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;}
